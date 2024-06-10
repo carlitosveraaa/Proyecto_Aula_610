@@ -1,0 +1,27 @@
+﻿@media (max-width:991px) {
+
+    body {
+        padding: 30px;
+    }
+
+    .presentacion-text {
+        font-size: 100px;
+    }
+
+    .presentacion p {
+        font-size: 10px;
+    }
+
+    .img-pre {
+        display: none;
+    }
+
+    .footer {
+        padding: 30px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+}

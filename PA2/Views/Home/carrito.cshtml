@@ -1,0 +1,175 @@
+﻿
+@{
+    ViewData["Title"] = "carrito";
+}
+<link rel="stylesheet" href="~/css/carrito.css" />
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+          integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="carrito.js" async></script>
+    <link rel="stylesheet" href="carrito.css">
+
+    <title>Carrito de compras</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top" style="background-color: #f1f1f1;">
+        <div class="nava container">
+            <a href="Index.html" class="navbar-brand" style="color: #0067AA;"><img src="~/img/logo.png" alt=""></a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarS"
+                    aria-controls="navbarS" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarS">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a href="@Url.Action("Index", "Home")" class="nav-link" style="color: #0067AA;">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="servicios.html" class="nav-link" style="color: #0067AA;">Servicios</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="nosotros.html" class="nav-link" style="color: #0067AA;">Nosotros</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="proyecto.html" class="nav-link" style="color: #0067AA;">Proyectos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="@Url.Action("carrito", "Home")" class="nav-link" style="color: #0067AA;">Carrito</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="@Url.Action("contacto", "Inicio") class="nav-link" style="color: #0067AA;">Contacto</a>
+                    </li>
+                   
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header>
+        <h1>Carrito de compras</h1>
+    </header>
+    <section class="contenedor">
+        <div class="contenedor-items">
+            <div class="item">
+                <span class="titulo-item">Balatas1</span>
+                <img src="img/imgcarrito/balatas1.jpeg" alt="" class="img-item">
+                <span class="precio-item">$120.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas2</span>
+                <img src="img/imgcarrito/balatas2.jpeg" alt="" class="img-item">
+                <span class="precio-item">$180.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas3</span>
+                <img src="img/imgcarrito/balatas3.jpeg" alt="" class="img-item">
+                <span class="precio-item">$160.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas4</span>
+                <img src="img/imgcarrito/balatas4.jpeg" alt="" class="img-item">
+                <span class="precio-item">$130.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas5</span>
+                <img src="img/imgcarrito/balatas1.jpeg" alt="" class="img-item">
+                <span class="precio-item">$190.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas6</span>
+                <img src="img/imgcarrito/balatas2.jpeg" alt="" class="img-item">
+                <span class="precio-item">$220.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas7</span>
+                <img src="img/imgcarrito/balatas3.jpeg" alt="" class="img-item">
+                <span class="precio-item">$240.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas8</span>
+                <img src="img/imgcarrito/balatas4.jpeg" alt="" class="img-item">
+                <span class="precio-item">$235.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+            <div class="item">
+                <span class="titulo-item">Balatas9</span>
+                <img src="img/imgcarrito/balatas1.jpeg" alt="" class="img-item">
+                <span class="precio-item">$256.00</span>
+                <button class="boton-item">Agregar al carrito</button>
+            </div>
+        </div>
+
+        <div class="carrito">
+            <div class="header-carrito">
+                <h2>Tu carrito</h2>
+            </div>
+            <div class="carrito-items">
+                <!--
+                <div class="carrito-item">
+                    <img src="img/balatas1.jpeg" alt="" width="80px">
+                    <div class="carrito-item-detalles">
+                        <span class="carrito-item-titulo">Balatas1</span>
+                        <div class="selector-cantidad">
+                            <i class="fa-solid fa-minus restar-cantidad"></i>
+                            <input type="text" value="1" class="carrito-item-cantidad" disabled>
+                            <i class="fa-solid fa-plus sumar-cantidad"></i>
+                        </div>
+                        <span class="carrito-item-precio">$120.00</span>
+                    </div>
+                    <span class="btn-eliminar">
+                        <i class="fa-solid fa-trash"></i>
+                    </span>
+                </div>
+                <div class="carrito-item">
+                    <img src="img/balatas2.jpeg" alt="" width="80px">
+                    <div class="carrito-item-detalles">
+                        <span class="carrito-item-titulo">Balatas2</span>
+                        <div class="selector-cantidad">
+                            <i class="fa-solid fa-minus restar-cantidad"></i>
+                            <input type="text" value="2" class="carrito-item-cantidad" disabled>
+                            <i class="fa-solid fa-plus sumar-cantidad"></i>
+                        </div>
+                        <span class="carrito-item-precio">$180.00</span>
+                    </div>
+                    <span class="btn-eliminar">
+                        <i class="fa-solid fa-trash"></i>
+                    </span>
+                </div>
+                -->
+            </div>
+
+
+            <div class="carrito-total">
+                <div class="fila">
+                    <strong>Tu Total</strong>
+                    <span class="carrito-precio-total">
+                        $480.00
+                    </span>
+                </div>
+                <button class="btn-pagar">Pagar <i class="fa-solid fa-bag-shopping"></i></button>
+            </div>
+        </div>
+
+    </section>
+
+    <script src="~/js/carrito.js"></script>
+
+</body>
+</html>

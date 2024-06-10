@@ -1,0 +1,17 @@
+﻿body {
+    background-color: #cccccc;
+    padding: 90px;
+    font-family: "Cinzel", serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    font-size: 16px;
+    color: #68A2A4;
+    border-radius: 25px;
+    background-color: #68A2A4;
+    cursor: pointer;
+}

@@ -1,0 +1,1154 @@
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CopyComplete
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+E:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.Up2Date
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+D:\PROGRAMACION AVANZADA\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrito1.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\contacto.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CopyComplete
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrito1.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\contacto.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CopyComplete
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrito1.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\contacto.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\empleados.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login_empleados.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.Up2Date
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+C:\Users\Carlitos Urìa\OneDrive - Instituto Politecnico Nacional\Desktop\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Citas\citas.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrito1.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\contacto.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.Up2Date
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\baja_emp.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Carro_emp.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\empleados.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Login_empleados.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\reg_emp.cshtml.g.cs
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\confirmar_emp.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Citas\citas.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\baja_emp.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Carro_emp.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\confirmar_emp.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\empleados.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Login_empleados.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\reg_emp.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrito1.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\contacto.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.Up2Date
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\Carlitos Urìa\Downloads\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\Proyecto Aula 2024\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Citas\crearCita.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.AssemblyReference.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorAssemblyInfo.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.input.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.TagHelpers.output.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorCoreGenerate.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Citas\crearCita.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\baja_emp.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Carro_emp.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\confirmar_emp.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\empleados.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Login_empleados.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\reg_emp.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrito.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrito1.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\index.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\actualizar.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\confirmar.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\contacto.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Login.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\registrar.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\restablecer.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.RazorTargetAssemblyInfo.cs
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.Views.pdb
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Manifest.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\PA2.StaticWebAssets.Pack.cache
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PA2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PA2.props
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PA2.props
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PA2.props
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CopyComplete
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+C:\Users\CECyT13\Desktop\ProyectoAula\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Citas\crearCita.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\baja_emp.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Carro_emp.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\confirmar_emp.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\empleados.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Login_empleados.cshtml.g.cs
+D:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\reg_emp.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Citas\crearCita.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\baja_emp.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Carro_emp.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\confirmar_emp.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\empleados.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Login_empleados.cshtml.g.cs
+E:\Escuela\6IM10\ProyectoAula\PA2\PA2\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\reg_emp.cshtml.g.cs

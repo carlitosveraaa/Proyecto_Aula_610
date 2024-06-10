@@ -1,0 +1,81 @@
+﻿.container a {
+    color: #ffffff;
+}
+
+body {
+    background-color: #ffffff;
+    padding: 90px;
+    font-family: "Cinzel", serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+    .input-group input {
+        width: 100%;
+        padding: 15px;
+        border-radius: 25px;
+        margin-bottom: 10px;
+        background-color: #B5DAE8;
+        border: 2px solid #B5DAE8;
+        color: #000000;
+        outline: none;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+    .input-group select {
+        width: 110%;
+        padding: 15px;
+        border-radius: 25px;
+        margin-bottom: 10px;
+        background-color: #B5DAE8;
+        border: 2px solid #B5DAE8;
+        color: #000000;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .input-group label {
+        display: flex;
+        color: #0067AA;
+        font-size: 15px;
+        font-weight: 600;
+        margin-bottom: 10px;
+        margin-right: 20px;
+    }
+
+    .input-group input::placeholder {
+        color: #000000;
+    }
+
+.btn {
+    font-size: 16px;
+    color: #000000;
+    border-radius: 25px;
+    background-color: #B5DAE8;
+    cursor: pointer;
+    border-color: #B5DAE8;
+}
+
+    .btn:hover {
+        font-size: 16px;
+        color: #ffffff;
+        border-radius: 25px;
+        background-color: #6faacf;
+        cursor: pointer;
+        border-color: #6faacf;
+    }
+
+    .btn:active {
+        font-size: 16px;
+        color: #ffffff;
+        border-radius: 25px;
+        background-color: #6faacf;
+        cursor: pointer;
+        border-color: #6faacf;
+    }
